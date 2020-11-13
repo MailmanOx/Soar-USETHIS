@@ -1,0 +1,18 @@
+header{
+  padding-bottom:50px;
+}
+
+.nav-item{
+  padding-bottom:50px;
+}
+
+
+.logo {
+  width:75px;
+}
+
+footer {
+  background-color:#343A40;
+  color:white;
+  padding:10px;
+}
